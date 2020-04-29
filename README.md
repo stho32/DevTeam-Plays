@@ -26,10 +26,13 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
   - Solidität vor Performance, der Benutzer braucht vielleicht 5 Minuten für den Mausklick im Browser, aber wenn er dabei keine Fehlermeldung erhält, hat es funktioniert.
   - Logs
   - interne Support-Tools
+  - Monitoring
+  - Reporting auf Vorgesetztenberuhigung ausrichten
 
 ### Expansion
   - Die Software wird mit Blick auf "weitere Vorteile, die später mal benötigt werden könnten" implementiert
   - Offene Schnittstellen
+  - Geteilte Bibliotheken erstellen
 
 ### Dampfwalze
   - Die Änderungen werden schneller in die Produktion gegeben, als diese sich anpassen kann.
