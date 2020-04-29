@@ -15,9 +15,10 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
   - "billige, schnelle Lösungen", sie sind vielleicht nicht state-of-the-art oder mit Top-Entwicklungen vergleichbar, aber bringen einen zügig implementierten Brückenkopf zustande
   - z.B. "StackOverflow-Kopieren ohne (viel) Validierung", einfache Anwendungsmodelle (Konsolenanwendung mit geplantem Task statt Dienst)
   - kann beim ersten Anzeichen von Widerstand zusammenbrechen
+  - sorgt dafür, dass man viele viele billige Anwendungen hat. Ein technologischer Umschwung (Widerstand) kann einen Haufen Arbeit auslösen, weil man dann viele unabhängige Anpassungen durchführen muss.
   
 ### Einigeln
-  - Vor allem auf Solidität achten
+  - Vor allem auf Solidität setzen
   - Dienste als Bus-System oder asynchron aufstellen; Wert auf die Fähigkeit der Systeme zur Selbstheilung legen
   - Transaktionen
   - Solidität vor Performance, der Benutzer braucht vielleicht 5 Minuten für den Mausklick im Browser, aber wenn er dabei keine Fehlermeldung erhält, hat es funktioniert.
@@ -35,7 +36,16 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
 
 ### Aufrüsten
   - Einführung neuer Technologien und Hardware zur Problemlösung
+  - Führt bei Unbedachtheit zu "Totrüsten"
 
+### Zentralisieren
+  - Funktionalitäten in einer größeren Anwendung zusammenziehen
+  - "Single point of failure"
+
+### Dezentralisieren
+  - Funktionalitäten verteilen
+  - vielleicht stabiler, aber schwierigere Übersicht
+  - weniger zentrale Kontrolle
 
 ## Taktiken
 
