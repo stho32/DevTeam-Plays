@@ -16,12 +16,16 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
   - z.B. "StackOverflow-Kopieren ohne (viel) Validierung", einfache Anwendungsmodelle (Konsolenanwendung mit geplantem Task statt Dienst)
   - kann beim ersten Anzeichen von Widerstand zusammenbrechen
   - sorgt dafür, dass man viele viele billige Anwendungen hat. Ein technologischer Umschwung (Widerstand) kann einen Haufen Arbeit auslösen, weil man dann viele unabhängige Anpassungen durchführen muss.
+  - Wozu Logs?
+  - Einfach mal schnell auf der Datenbank machen!
   
 ### Einigeln
   - Vor allem auf Solidität setzen
   - Dienste als Bus-System oder asynchron aufstellen; Wert auf die Fähigkeit der Systeme zur Selbstheilung legen
   - Transaktionen
   - Solidität vor Performance, der Benutzer braucht vielleicht 5 Minuten für den Mausklick im Browser, aber wenn er dabei keine Fehlermeldung erhält, hat es funktioniert.
+  - Logs
+  - interne Support-Tools
 
 ### Expansion
   - Die Software wird mit Blick auf "weitere Vorteile, die später mal benötigt werden könnten" implementiert
