@@ -28,6 +28,8 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
   - interne Support-Tools
   - Monitoring
   - Reporting auf Vorgesetztenberuhigung ausrichten
+  - Refactoring durchführen um sich und/oder die Software abzusichern
+  - Security-Tests
 
 ### Expansion
   - Die Software wird mit Blick auf "weitere Vorteile, die später mal benötigt werden könnten" implementiert
