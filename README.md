@@ -90,8 +90,9 @@ Taktiken: Scouten, Hinterhalt, Angriff, Guerillia-Angriff
 ### Micromanagement
   - Den Entwicklern bis ins letzte Detail vorgeben, was sie machen müssen.
   - Stetiges Einmischen in die Lösung
+  - Am Besten mit Driften und Statusmeetings kombinieren
   
-### Driftfolter
+### Driften
   - Auf jede Frage zu Aufgabendetails mit einer leichten Abweichung zur ursprünglichen Erklärung reagieren, die zunächst unwichtig scheint, aber in der Implementierung einen Unterschied macht
   - Da jede leichte Abweichung eine weitere Verunsicherung und damit weitere Nachfragen verursacht...
   
